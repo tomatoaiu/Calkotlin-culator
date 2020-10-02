@@ -1,5 +1,7 @@
 #  macの計算機のようなkotlin実装の電卓
 
+![calculator](./calculator.png)
+
 ## 機能
 
 - [x] 足し算
